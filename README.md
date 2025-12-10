@@ -7,7 +7,7 @@ The only reason I wrote this is because the website containing the binaries for 
 
 # How to use
 Simply download the ``Fat32Format.exe`` binary [here](https://github.com/Germ-99/Fat32Format/releases/tag/V1.0.0)
-and then select a USB to format. **__PLEASE NOTE__** That writing FAT tables may take a few minutes, do *NOT* remove the USB and or close the tool while it is actively doing something (duh)
+and then select a USB to format after running the program. **__PLEASE NOTE__** That writing FAT tables may take a few minutes, do *NOT* remove the USB and or close the tool while it is actively doing something (duh)
 
 # Contributing
 I don't really plan on updating this, mainly because it's only for my own selfish reasons. 
