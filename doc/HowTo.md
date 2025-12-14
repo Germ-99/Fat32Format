@@ -8,7 +8,7 @@
 **NOTE: Whatever drive you format will be completely wiped** 
 
 # Linux
-Assuming you already have fat32format installed, this tool is used via the terminal on linux.
+Assuming you already have fat32format installed (if you don't, go [here](https://github.com/Germ-99/Fat32Format/tree/main?tab=readme-ov-file#linux)), this tool is used via the terminal on linux.
 
 For just formatting the drive, the command is as simple as:
 ```

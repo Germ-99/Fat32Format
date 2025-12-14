@@ -5,15 +5,19 @@ And before you remind me; *YES* I know that there is already an existing tool fo
 
 The only reason I wrote this is because the website containing the binaries for said existing tool seems to go down every other day.
 
-# How to use
+# How to Install
 
 ## Windows
 Simply download the ``Fat32Format.exe`` binary [here](https://github.com/Germ-99/Fat32Format/releases/tag/V1.0.0)
-and then select a USB to format after running the program. **__PLEASE NOTE__** That writing FAT tables may take a few minutes, do *NOT* remove the USB and or close the tool while it is actively doing something (duh)
+
+If you want to know how to use it, go [here](https://github.com/Germ-99/Fat32Format/blob/main/doc/HowTo.md#windows)
 
 
 ## Linux
-
+Simply run the following command:
+```shell
+curl -fsSL https://raw.githubusercontent.com/Germ-99/Fat32Format/refs/heads/main/scripts/install.sh | bash
+```
 
 # Contributing
 I don't really plan on updating this, mainly because this tool is only for my own selfish reasons. 
