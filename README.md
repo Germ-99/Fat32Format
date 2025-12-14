@@ -8,7 +8,7 @@ The only reason I wrote this is because the website containing the binaries for 
 # How to Install
 
 ## Windows
-Simply download the ``Fat32Format.exe`` binary [here](https://github.com/Germ-99/Fat32Format/releases/tag/V1.0.0)
+Simply download the ``Fat32Format.exe`` binary [here](https://github.com/Germ-99/Fat32Format/releases)
 
 If you want to know how to use it, go [here](https://github.com/Germ-99/Fat32Format/blob/main/doc/HowTo.md#windows)
 
