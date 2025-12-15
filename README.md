@@ -14,6 +14,14 @@ If you want to know how to use it, go [here](https://github.com/Germ-99/Fat32For
 
 
 ## Linux
+
+**If you're on Arch linux**
+Fat32Format can be downloaded via the AUR using a helper like [yay](https://github.com/Jguer/yay)
+```shell
+yay -S fat32format
+```
+
+**If you're not on Arch linux**
 Simply run the following command:
 ```shell
 curl -fsSL https://raw.githubusercontent.com/Germ-99/Fat32Format/refs/heads/main/scripts/install.sh | bash
