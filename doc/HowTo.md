@@ -24,7 +24,7 @@ sudo fttf /dev/sda
 This tool also has 3 flags that can optionally be used.
 - ``--force`` - Will skip confirmation and just do the operation. Example: ``sudo fttf /dev/sda --force``
 
-- ``--verbose`` - Will show more information during the operation. Example: ``sudo fttf /dev/sda --verbose
+- ``--verbose`` - Will show more information during the operation. Example: ``sudo fttf /dev/sda --verbose``
 
 These flags can also be used together
 ```
